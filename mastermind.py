@@ -66,10 +66,5 @@ while replay != "NO":
     print("Answer =", fruitsList, "\n") #For testing purposes only, add/remove '#' to front of line to disable/enable testing mode
     guessInput()
     main(guessList, fruitsList)
-    replay = str(input(("\nWould you like to play another game? [YES/NO]: ")).upper()) #Asks player if they wish to replay the game
+    #replay = str(input(("\nWould you like to play another game? [YES/NO]: ")).upper()) #Asks player if they wish to replay the game
     playAgain(replay)
-
-
-        
-
-
