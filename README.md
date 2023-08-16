@@ -1,2 +1,3 @@
-# mastermind
-Python console game for CSC1024 Programming Principles
+# Mastermind
+
+Python terminal game for CSC1024 Programming Principles
