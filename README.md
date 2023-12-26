@@ -10,9 +10,13 @@ Terminal game for CSC1024 Programming Principles.
 
 ## Built With
 
-### Tools and Languages
+### Languages
 
-- [![Python](https://img.shields.io/badge/Python-%23FFE05D?style=for-the-badge&logo=python&logoColor=#3D7AAA)](https://www.python.org/)
+- [![Python](https://img.shields.io/badge/Python-f7c93e?style=for-the-badge&logo=python&logoColor=#366c9c)](https://www.python.org/)
+
+### Tools
+
+- [![!Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-2c2c32?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
 
 ## Getting Started
 
@@ -32,10 +36,6 @@ py -m pip install --upgrade pip
 1. Clone the repository
 ```
 git clone https://github.com/ChiefWoods/mastermind.git
-```
-2. Run script
-```
-py mastermind.py
 ```
 
 ## Issues
